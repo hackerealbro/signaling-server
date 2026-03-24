@@ -1,0 +1,3 @@
+{
+    "text": "{\r\n  \"name\": \"randomchat-signaling-server\",\r\n  \"version\": \"1.0.0\",\r\n  \"description\": \"WebRTC signaling server for RandomChat\",\r\n  \"main\": \"server.js\",\r\n  \"scripts\": {\r\n    \"start\": \"node server.js\"\r\n  },\r\n  \"dependencies\": {\r\n    \"express\": \"^4.18.2\",\r\n    \"socket.io\": \"^4.7.5\"\r\n  },\r\n  \"engines\": {\r\n    \"node\": \">=18\"\r\n  }\r\n}"
+}
